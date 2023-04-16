@@ -1,0 +1,6 @@
+name: HawKing
+version: '${version}'
+main: fr.kyra.hawking.HawKing
+api-version: 1.13
+authors: [ Kyra ]
+description: A plugin as smart as Stephen Hawking
